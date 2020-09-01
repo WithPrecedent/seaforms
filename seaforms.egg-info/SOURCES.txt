@@ -1,0 +1,8 @@
+README.rst
+setup.py
+seaforms/__init__.py
+seaforms.egg-info/PKG-INFO
+seaforms.egg-info/SOURCES.txt
+seaforms.egg-info/dependency_links.txt
+seaforms.egg-info/requires.txt
+seaforms.egg-info/top_level.txt
