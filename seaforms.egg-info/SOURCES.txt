@@ -1,6 +1,7 @@
 README.rst
 setup.py
 seaforms/__init__.py
+seaforms/__main__.py
 seaforms.egg-info/PKG-INFO
 seaforms.egg-info/SOURCES.txt
 seaforms.egg-info/dependency_links.txt
